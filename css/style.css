@@ -1,0 +1,12 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+
+.container{
+    display: block;
+}
+
+.img-bg{
+    margin-left: 24rem;
+}
